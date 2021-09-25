@@ -80,3 +80,4 @@ public class Activity_Bottom_navigation extends AppCompatActivity implements Bot
         super.onBackPressed();
     }
 }
+/* comment/*
